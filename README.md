@@ -1,7 +1,7 @@
 # Secure-ECommerce-Website
-Developed a secure ecoomerce website as a part of Foundations to Computer Security Course
+Developed a secure ecommerce website as a part of Foundations to Computer Security Course [CSE 345] offered by Dr. Arun Balaji at IIITD.
 
-## User Guide
+## Website and Functionalities
 ![1](https://user-images.githubusercontent.com/54437908/149610795-81b4fedf-8d14-4fe1-9d61-87cab955cafc.png)
 ![2](https://user-images.githubusercontent.com/54437908/149610799-945c350a-c098-4c44-a6f2-edf1fb4486a2.png)
 ![3](https://user-images.githubusercontent.com/54437908/149610802-2b7a338d-531e-49f2-a3d6-f2e6d547a918.png)
